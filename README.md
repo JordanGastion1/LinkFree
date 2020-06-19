@@ -3,7 +3,7 @@ A free and open source alternative to LinkTree!
 
 [Website](https://michaelbarney.github.io/LinkFree)
 
-<img src="https://i.imgur.com/B4LX0kY.png" alt="alt text" width="250px">
+<img src= "https://ibb.co/CwVMYN9" alt="alt text" width="250px">
 
 ## What is LinkFree?
 Ever wanted to add more links to your Instagram bio? LinkFree does just that! It gathers all of your links into one page that is easy to navigate.
