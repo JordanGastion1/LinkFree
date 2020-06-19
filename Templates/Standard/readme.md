@@ -21,7 +21,7 @@
  4. **Username**
 	Your Instagram username. Change the "href" property with its url and add substitute the text with your @.
 	```
-	<a  href="https://www.instagram.com/thesimpsons"  id="userName"></h3>@thesimpsons</a>
+	<a  href="https://www.instagram.com/thesimpsons"  id="userName"></h3>@jordangastion</a>
 	```
  5. **Links**
  To add your clickable links just substitute, delete or copy the "a" tags inside the "links" div with your desired hyperlinks.
